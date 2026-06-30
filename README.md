@@ -1,2 +1,2 @@
 # Rapid-thermal-processing
-This project aims to study Rapid Thermal Processing ,which is a semiconductor manufacturing process that involves heating silicon wafers to high temperatures sometimes exceeding 1,000°C at a short time (few seconds). This process is used for many applications in semiconductor manufacturing, including dopant activation, thermal oxidation, and others
+This project presents a multiphysics simulation of a Rapid Thermal Processing (RTP) chamber using COMSOL Multiphysics. RTP is a critical semiconductor manufacturing technique characterized by ultra-fast thermal cycles, where silicon wafers are heated to elevated temperatures—often exceeding 1,000°C—within a span of just a few seconds.
